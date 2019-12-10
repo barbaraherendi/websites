@@ -1,1 +1,3 @@
-Modified Wordpress templates for small businesses
+#Wordpress templates
+
+Modified WP templates for small businesses
